@@ -1,0 +1,204 @@
+2021-02-19 09:22:     Restoring model from results/1613700454
+2021-02-19 09:22: NumExpr defaulting to 8 threads.
+2021-02-19 09:22:     Configuration :
+2021-02-19 09:22:         Storing model in  : results/1613700454
+2021-02-19 09:22:         Latent dimensions : 20
+2021-02-19 09:22:         Number of hidden layers per block : 2
+2021-02-19 09:22:         Number of correction updates : 20
+2021-02-19 09:22:         Alpha : 0.01
+2021-02-19 09:22:         Non linearity : leaky_relu
+2021-02-19 09:22:         d_in_A : 1
+2021-02-19 09:22:         d_in_B : 4
+2021-02-19 09:22:         d_out : 1
+2021-02-19 09:22:         Minibatch size : 500
+2021-02-19 09:22:         Current training iteration : 24000
+2021-02-19 09:22:         Model name : gns
+2021-02-19 09:22:         Initial U : [399.]
+2021-02-19 09:22:         A mean : [0.         0.         0.08255445]
+2021-02-19 09:22:         A std : [1.         1.         0.17580375]
+2021-02-19 09:22:         B mean : [0.00000000e+00 5.84457226e-03 0.00000000e+00 4.68271974e+01]
+2021-02-19 09:22:         B std : [1.00000000e+00 4.58764015e-03 1.00000000e+00 1.28241726e+02]
+2021-02-19 09:22:         Proxy : False
+2021-02-19 09:22:     Starting a training process :
+2021-02-19 09:22:         Max iteration : 1000000
+2021-02-19 09:22:         Learning rate : 0.0003
+2021-02-19 09:22:         Discount : 0.9
+2021-02-19 09:22:         Training data : datasets/asnet5_5.11.32.37.44
+2021-02-19 09:22:         Saving model every 1000.0 iterations
+2021-02-19 09:23:     Learning iteration 24000
+2021-02-19 09:23:     Training loss (minibatch) : 0.004462788812816143
+2021-02-19 09:23:     Validation loss (minibatch): 0.00446537509560585
+2021-02-19 09:49:     Learning iteration 25000
+2021-02-19 09:49:     Training loss (minibatch) : 9.149387187790126e-05
+2021-02-19 09:49:     Validation loss (minibatch): 9.125363430939615e-05
+2021-02-19 10:16:     Learning iteration 26000
+2021-02-19 10:16:     Training loss (minibatch) : 9.360101103084162e-05
+2021-02-19 10:16:     Validation loss (minibatch): 9.668387065175921e-05
+2021-02-19 10:42:     Learning iteration 27000
+2021-02-19 10:42:     Training loss (minibatch) : 9.106437209993601e-05
+2021-02-19 10:42:     Validation loss (minibatch): 8.776148752076551e-05
+2021-02-19 11:09:     Learning iteration 28000
+2021-02-19 11:09:     Training loss (minibatch) : 0.00010508175182621926
+2021-02-19 11:09:     Validation loss (minibatch): 0.00010400453174952418
+2021-02-19 11:40:     Learning iteration 29000
+2021-02-19 11:40:     Training loss (minibatch) : 9.110105747822672e-05
+2021-02-19 11:40:     Validation loss (minibatch): 8.980218990473077e-05
+2021-02-19 12:11:     Learning iteration 30000
+2021-02-19 12:11:     Training loss (minibatch) : 8.184997568605468e-05
+2021-02-19 12:11:     Validation loss (minibatch): 8.04320807219483e-05
+2021-02-19 12:42:     Learning iteration 31000
+2021-02-19 12:42:     Training loss (minibatch) : 0.00013581453822553158
+2021-02-19 12:42:     Validation loss (minibatch): 0.00013263260188978165
+2021-02-19 13:13:     Learning iteration 32000
+2021-02-19 13:13:     Training loss (minibatch) : 7.577110955026001e-05
+2021-02-19 13:13:     Validation loss (minibatch): 7.719909626757726e-05
+2021-02-19 13:43:     Learning iteration 33000
+2021-02-19 13:43:     Training loss (minibatch) : 9.480459266342223e-05
+2021-02-19 13:43:     Validation loss (minibatch): 9.432771912543103e-05
+2021-02-19 14:15:     Learning iteration 34000
+2021-02-19 14:15:     Training loss (minibatch) : 6.904936890350655e-05
+2021-02-19 14:15:     Validation loss (minibatch): 6.883808237034827e-05
+2021-02-19 14:46:     Learning iteration 35000
+2021-02-19 14:46:     Training loss (minibatch) : 6.901186134200543e-05
+2021-02-19 14:46:     Validation loss (minibatch): 6.716803181916475e-05
+2021-02-19 15:17:     Learning iteration 36000
+2021-02-19 15:17:     Training loss (minibatch) : 6.374121585395187e-05
+2021-02-19 15:17:     Validation loss (minibatch): 6.375736120389774e-05
+2021-02-19 15:49:     Learning iteration 37000
+2021-02-19 15:49:     Training loss (minibatch) : 9.243037493433803e-05
+2021-02-19 15:49:     Validation loss (minibatch): 9.29412417463027e-05
+2021-02-19 16:20:     Learning iteration 38000
+2021-02-19 16:20:     Training loss (minibatch) : 8.852915925672278e-05
+2021-02-19 16:20:     Validation loss (minibatch): 8.945514127844945e-05
+2021-02-19 16:51:     Learning iteration 39000
+2021-02-19 16:51:     Training loss (minibatch) : 7.878310861997306e-05
+2021-02-19 16:51:     Validation loss (minibatch): 7.883593207225204e-05
+2021-02-19 17:23:     Learning iteration 40000
+2021-02-19 17:23:     Training loss (minibatch) : 7.584103150293231e-05
+2021-02-19 17:23:     Validation loss (minibatch): 7.598722004331648e-05
+2021-02-19 17:55:     Learning iteration 41000
+2021-02-19 17:55:     Training loss (minibatch) : 5.4642507166136056e-05
+2021-02-19 17:55:     Validation loss (minibatch): 5.541120481211692e-05
+2021-02-19 18:27:     Learning iteration 42000
+2021-02-19 18:27:     Training loss (minibatch) : 7.939586066640913e-05
+2021-02-19 18:27:     Validation loss (minibatch): 7.827872468624264e-05
+2021-02-19 18:59:     Learning iteration 43000
+2021-02-19 18:59:     Training loss (minibatch) : 6.203319935593754e-05
+2021-02-19 18:59:     Validation loss (minibatch): 6.34355892543681e-05
+2021-02-19 19:30:     Learning iteration 44000
+2021-02-19 19:30:     Training loss (minibatch) : 5.9435260482132435e-05
+2021-02-19 19:30:     Validation loss (minibatch): 5.887227234779857e-05
+2021-02-19 20:03:     Learning iteration 45000
+2021-02-19 20:03:     Training loss (minibatch) : 7.496251055272296e-05
+2021-02-19 20:03:     Validation loss (minibatch): 7.269554043887183e-05
+2021-02-19 20:35:     Learning iteration 46000
+2021-02-19 20:35:     Training loss (minibatch) : 8.57102349982597e-05
+2021-02-19 20:35:     Validation loss (minibatch): 8.590433571953326e-05
+2021-02-19 21:07:     Learning iteration 47000
+2021-02-19 21:07:     Training loss (minibatch) : 9.394145308760926e-05
+2021-02-19 21:07:     Validation loss (minibatch): 9.319568198407069e-05
+2021-02-19 21:39:     Learning iteration 48000
+2021-02-19 21:39:     Training loss (minibatch) : 5.7741428463486955e-05
+2021-02-19 21:39:     Validation loss (minibatch): 5.7597750128479674e-05
+2021-02-19 22:11:     Learning iteration 49000
+2021-02-19 22:11:     Training loss (minibatch) : 7.346995698753744e-05
+2021-02-19 22:11:     Validation loss (minibatch): 7.286474283318967e-05
+2021-02-19 22:44:     Learning iteration 50000
+2021-02-19 22:44:     Training loss (minibatch) : 6.30396680207923e-05
+2021-02-19 22:44:     Validation loss (minibatch): 6.0861952078994364e-05
+2021-02-19 23:16:     Learning iteration 51000
+2021-02-19 23:16:     Training loss (minibatch) : 7.797261059749871e-05
+2021-02-19 23:16:     Validation loss (minibatch): 7.634930079802871e-05
+2021-02-19 23:49:     Learning iteration 52000
+2021-02-19 23:49:     Training loss (minibatch) : 0.00010163726255996153
+2021-02-19 23:49:     Validation loss (minibatch): 0.00010209823813056573
+2021-02-20 00:21:     Learning iteration 53000
+2021-02-20 00:21:     Training loss (minibatch) : 5.775793397333473e-05
+2021-02-20 00:21:     Validation loss (minibatch): 5.649012018693611e-05
+2021-02-20 00:54:     Learning iteration 54000
+2021-02-20 00:54:     Training loss (minibatch) : 0.00010003858187701553
+2021-02-20 00:54:     Validation loss (minibatch): 0.00010020093759521842
+2021-02-20 01:27:     Learning iteration 55000
+2021-02-20 01:27:     Training loss (minibatch) : 6.133682472864166e-05
+2021-02-20 01:27:     Validation loss (minibatch): 6.0535665397765115e-05
+2021-02-20 02:00:     Learning iteration 56000
+2021-02-20 02:00:     Training loss (minibatch) : 4.1200717532774433e-05
+2021-02-20 02:00:     Validation loss (minibatch): 4.0209451981354505e-05
+2021-02-20 02:35:     Learning iteration 57000
+2021-02-20 02:35:     Training loss (minibatch) : 6.67356071062386e-05
+2021-02-20 02:35:     Validation loss (minibatch): 6.622096407227218e-05
+2021-02-20 03:08:     Learning iteration 58000
+2021-02-20 03:08:     Training loss (minibatch) : 6.596797902602702e-05
+2021-02-20 03:08:     Validation loss (minibatch): 6.625904643442482e-05
+2021-02-20 03:42:     Learning iteration 59000
+2021-02-20 03:42:     Training loss (minibatch) : 5.985828465782106e-05
+2021-02-20 03:42:     Validation loss (minibatch): 5.854576374986209e-05
+2021-02-20 04:17:     Learning iteration 60000
+2021-02-20 04:17:     Training loss (minibatch) : 8.39751519379206e-05
+2021-02-20 04:17:     Validation loss (minibatch): 8.349691779585555e-05
+2021-02-20 04:52:     Learning iteration 61000
+2021-02-20 04:52:     Training loss (minibatch) : 6.260516965994611e-05
+2021-02-20 04:52:     Validation loss (minibatch): 6.110495451139286e-05
+2021-02-20 05:26:     Learning iteration 62000
+2021-02-20 05:26:     Training loss (minibatch) : 5.0442973588360474e-05
+2021-02-20 05:26:     Validation loss (minibatch): 4.9254653276875615e-05
+2021-02-20 06:02:     Learning iteration 63000
+2021-02-20 06:02:     Training loss (minibatch) : 9.050957305589691e-05
+2021-02-20 06:02:     Validation loss (minibatch): 9.063457400770858e-05
+2021-02-20 06:36:     Learning iteration 64000
+2021-02-20 06:36:     Training loss (minibatch) : 6.178992771310732e-05
+2021-02-20 06:36:     Validation loss (minibatch): 6.043504617991857e-05
+2021-02-20 07:10:     Learning iteration 65000
+2021-02-20 07:10:     Training loss (minibatch) : 4.597798761096783e-05
+2021-02-20 07:10:     Validation loss (minibatch): 4.651561539503746e-05
+2021-02-20 07:45:     Learning iteration 66000
+2021-02-20 07:45:     Training loss (minibatch) : 5.0985538109671324e-05
+2021-02-20 07:45:     Validation loss (minibatch): 5.156733823241666e-05
+2021-02-20 08:19:     Learning iteration 67000
+2021-02-20 08:19:     Training loss (minibatch) : 4.3999392801197246e-05
+2021-02-20 08:19:     Validation loss (minibatch): 4.350221570348367e-05
+2021-02-20 08:55:     Learning iteration 68000
+2021-02-20 08:55:     Training loss (minibatch) : 5.142999725649133e-05
+2021-02-20 08:55:     Validation loss (minibatch): 5.0166749133495614e-05
+2021-02-20 09:30:     Learning iteration 69000
+2021-02-20 09:30:     Training loss (minibatch) : 5.0439593906048685e-05
+2021-02-20 09:30:     Validation loss (minibatch): 5.141815927345306e-05
+2021-02-20 10:05:     Learning iteration 70000
+2021-02-20 10:05:     Training loss (minibatch) : 5.5649310525041074e-05
+2021-02-20 10:05:     Validation loss (minibatch): 5.563568265642971e-05
+2021-02-20 10:40:     Learning iteration 71000
+2021-02-20 10:40:     Training loss (minibatch) : 4.2261315684299916e-05
+2021-02-20 10:40:     Validation loss (minibatch): 4.154560883762315e-05
+2021-02-20 11:15:     Learning iteration 72000
+2021-02-20 11:15:     Training loss (minibatch) : 6.340464460663497e-05
+2021-02-20 11:15:     Validation loss (minibatch): 6.465519254561514e-05
+2021-02-20 11:50:     Learning iteration 73000
+2021-02-20 11:50:     Training loss (minibatch) : 4.322108725318685e-05
+2021-02-20 11:50:     Validation loss (minibatch): 4.247054675943218e-05
+2021-02-20 12:25:     Learning iteration 74000
+2021-02-20 12:25:     Training loss (minibatch) : 3.968673263443634e-05
+2021-02-20 12:25:     Validation loss (minibatch): 3.9868304156698287e-05
+2021-02-20 13:02:     Learning iteration 75000
+2021-02-20 13:02:     Training loss (minibatch) : 5.2842664445051923e-05
+2021-02-20 13:02:     Validation loss (minibatch): 5.198468716116622e-05
+2021-02-20 13:37:     Learning iteration 76000
+2021-02-20 13:37:     Training loss (minibatch) : 4.5881948608439416e-05
+2021-02-20 13:37:     Validation loss (minibatch): 4.639782855520025e-05
+2021-02-20 14:14:     Learning iteration 77000
+2021-02-20 14:14:     Training loss (minibatch) : 6.302112888079137e-05
+2021-02-20 14:14:     Validation loss (minibatch): 6.230550934560597e-05
+2021-02-20 14:51:     Learning iteration 78000
+2021-02-20 14:51:     Training loss (minibatch) : 3.591107451939024e-05
+2021-02-20 14:51:     Validation loss (minibatch): 3.5563320125220343e-05
+2021-02-20 15:27:     Learning iteration 79000
+2021-02-20 15:27:     Training loss (minibatch) : 4.276590334484354e-05
+2021-02-20 15:27:     Validation loss (minibatch): 4.3136958993272856e-05
+2021-02-20 16:03:     Learning iteration 80000
+2021-02-20 16:03:     Training loss (minibatch) : 0.00011550174531294033
+2021-02-20 16:03:     Validation loss (minibatch): 0.00011339845514157787
+2021-02-20 16:40:     Learning iteration 81000
+2021-02-20 16:40:     Training loss (minibatch) : 4.499979695538059e-05
+2021-02-20 16:40:     Validation loss (minibatch): 4.489830098464154e-05
+2021-02-20 17:18:     Learning iteration 82000
+2021-02-20 17:18:     Training loss (minibatch) : 3.644340904429555e-05
+2021-02-20 17:18:     Validation loss (minibatch): 3.755201760213822e-05
