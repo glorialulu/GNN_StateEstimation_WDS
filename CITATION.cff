@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Xing
+    given-names: Lu
+  - family-names: Sela
+    given-names: Lina
+title: "Graph Neural Networks for State Estimation in Water Distribution Systemse"
+version: 0.0.1
+date-released: 2021-04-11
